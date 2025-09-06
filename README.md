@@ -25,15 +25,12 @@ This project showcases Harry Potter’s journey, characters, and magical world i
 ## 📂 Project Structure
 HarryPotter-Tribute-Page/
 
-│── index.html
-
-│── style.css
-
+│── carousal.html
+│── tribute.html
 │── images/
-
 │ └── (all tribute images here)
 
-│── README.md
+
 
 
 
